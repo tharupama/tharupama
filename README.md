@@ -10,7 +10,7 @@
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharupama&label=Profile%20views&color=0e75b6&style=flat" alt="tharupama" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aneal07&theme&label=Profile%20views&color=0e75b6&style=flat" alt="tharupama" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tharupama=onedark&no-frame=true&no-bg=false&margin-w=4)
