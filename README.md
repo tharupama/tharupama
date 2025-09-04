@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tharupama Nayana</h1>
+<h3 align="center">
+  Hi, I'm Tharupama Nayana
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 ### ⚙️ &nbsp;GitHub Analytics
