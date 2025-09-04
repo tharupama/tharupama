@@ -15,8 +15,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aneal07&theme&label=Profile%20views&color=0e75b6&style=flat" alt="tharupama" /> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tharupama=onedark&no-frame=true&no-bg=false&margin-w=4)
+ ### 🏆 Profile Trophies
+
+<div align=center>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tharupama-tharupama&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
 
 - 🌱 I’m currently learning **JAVA,PHP,SQL,PYTHON**
 
