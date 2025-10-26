@@ -16,7 +16,7 @@
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aneal07&theme&label=Profile%20views&color=0e75b6&style=flat" alt="tharupama" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharupama&theme&label=Profile%20views&color=0e75b6&style=flat" alt="tharupama" /> </p>
 
 
 
